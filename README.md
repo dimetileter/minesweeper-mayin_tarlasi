@@ -26,8 +26,8 @@ Bu Mayın Tarlası oyunu, klasik kuralların ötesine geçen çeşitli özellikl
 ## Kurulum
 Proje dosyalarını bilgisayarınıza indirin veya terminal üzerinden klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone https://github.com/dimetileter/minesweeper-mayin_tarlasi.git
+cd minesweeper-mayin_tarlasi
 ```
 
 ## Kullanım
